@@ -1,4 +1,4 @@
-# Conversor de PSD para Imagem
+# Yabai.jpg (Conversor de PSD para jpg e png)
 
 ![Plataforma](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-blue)
 ![Licença](https://img.shields.io/badge/license-MIT-green)
